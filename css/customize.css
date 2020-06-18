@@ -116,6 +116,7 @@ label:hover:before {
 
 @media (min-width: 544px) {  
   .hero {font-size:0.5rem;} /*1rem = 16px*/
+
 }
  
 /* Medium devices (tablets, 768px and up) The navbar toggle appears at this breakpoint */
@@ -130,5 +131,8 @@ label:hover:before {
  
 /* Extra large devices (large desktops, 1200px and up) */
 @media (min-width: 1200px) {  
-  .hero {font-size:1.5rem;} /*1rem = 16px*/    
+  .hero {font-size:1.5rem;} /*1rem = 16px*/  
+  .navbar-nav {
+    font-size: 1.3rem;
+  }  
 }
