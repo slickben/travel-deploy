@@ -39,14 +39,7 @@ body {
     position: relative;
 }
 
-.navbar-brand::after{
-    content: '.';
-    position: absolute;
-    font-size: 5rem;
-    bottom: -38px;
-    right: 63px;
-    color: var(--pink);
-}
+
 
 #navbarNav a {
   color: #ffffff;
