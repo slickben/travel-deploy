@@ -136,3 +136,37 @@ label:hover:before {
     font-size: 1.3rem;
   }  
 }
+
+.name {
+  font-size: 28px;
+}
+
+.divided-bg  {
+  background: linear-gradient(to bottom, #F59709 0%,#F59709 80%, #F59709 50%,white 50%,white 100%); /* W3C */
+}
+nav{
+background-color: rgba(246, 246, 246, 0.342);
+}
+.primary-color {
+color: #ff1d58 !important;
+}
+.bg-primary-color {
+background-color: #ff1d58;
+}
+header {
+  background-image: url('../images/tour/pascal-bernardon-Y4vRJjmpsJ8-unsplash\ 1.png'); 
+background-position: center; 
+background-size: cover;
+}
+
+header .header-ovelay {
+background-color: rgba(0, 0, 0, 0.596);
+}
+
+.banner {
+font-size: 1.2rem;
+}
+.tour-price {
+top: 20px;
+left: 30px;
+}
